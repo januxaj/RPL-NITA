@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | NITA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="header">
+    <h1>About NITA</h1>
+    <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="programs.html">Programs</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="content">
+    <h2>Who We Are</h2>
+    <p>
+        NITA is a government institution mandated to provide and regulate
+        industrial training in Kenya, ensuring a skilled workforce.
+    </p>
+
+    <h2>Our Mission</h2>
+    <p>
+        To enhance skills development through quality training and partnerships.
+    </p>
+</section>
+
+<footer>
+    <p>&copy; 2026 NITA</p>
+</footer>
+
+</body>
+</html>
 
