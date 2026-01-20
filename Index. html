@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NITA | Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="header">
+    <h1>NITA Training Institute</h1>
+    <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="programs.html">Programs</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <h2>Building Skills for a Better Future</h2>
+        <p>Industry-driven technical and vocational training.</p>
+        <a href="programs.html" class="btn">Explore Programs</a>
+    </div>
+</section>
+
+<section class="features">
+    <div class="card">
+        <h3>Certified Training</h3>
+        <p>Nationally recognized certification programs.</p>
+    </div>
+    <div class="card">
+        <h3>Practical Skills</h3>
+        <p>Hands-on training aligned to industry needs.</p>
+    </div>
+    <div class="card">
+        <h3>Career Growth</h3>
+        <p>Preparing learners for employment and self-reliance.</p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2026 NITA. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
 
