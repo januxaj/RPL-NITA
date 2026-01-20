@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programs | NITA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="header">
+    <h1>Our Programs</h1>
+    <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="programs.html">Programs</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="program-grid">
+    <div class="program-card">Web Development</div>
+    <div class="program-card">ICT Support Technician</div>
+    <div class="program-card">Electrical Installation</div>
+    <div class="program-card">Automotive Engineering</div>
+    <div class="program-card">Plumbing Technology</div>
+    <div class="program-card">Welding & Fabrication</div>
+</section>
+
+<footer>
+    <p>&copy; 2026 NITA</p>
+</footer>
+
+</body>
+</html>
 
